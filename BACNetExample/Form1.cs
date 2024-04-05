@@ -16,7 +16,6 @@ using System.Diagnostics;
 ///Ela-compil and contributors
 ///https://github.com/ela-compil
 ///https://github.com/ela-compil/BACnet
-///McFarlanePR206
 
 
 namespace BACNetExample
